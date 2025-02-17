@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating through arrays. The `Bug.java` file shows the erroneous code, which attempts to access an array element beyond its valid index.  The `BugSolution.java` file provides the corrected code with explanations.
